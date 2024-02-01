@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <div style="display:inline-block;">
 <br> 
 
-![Samuel's GitHub](https://github-readme-stats.vercel.app/api?username=Samuel-bayb&show_icons=true&theme=blueberry)
+![Samuel's GitHub](https://github-readme-stats.vercel.app/api?username=Samuel-bay&show_icons=true&theme=blueberry)
 
 <h2><strong>Connect with me:</strong></h2>
 <div>
