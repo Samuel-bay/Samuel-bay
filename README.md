@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 <br> 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-bay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-bay&layout=compact&langs_count=16&theme=dracula"/>
 
 <h2><strong>Connect with me:</strong></h2>
 <div>
