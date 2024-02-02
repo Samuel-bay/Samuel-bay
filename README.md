@@ -1,6 +1,6 @@
 ### Olá, seja bem-vindo(a) !!
 <!--
-*Samuca-github/Samuca-github* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+*Samuel-bay/Samuel-bay* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ## Languages:
 
 <div style="display: inline-block;">
+<img style="width:45px; margin:0px 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+<img style="width:45px; margin:0px 5px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img style="width:45px; margin:0px 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -32,7 +34,8 @@ Here are some ideas to get you started:
 <div style="display:inline-block;">
 <br> 
 
-![Samuel's GitHub](https://github-readme-stats.vercel.app/api?username=Samuel-bay&show_icons=true&theme=blueberry)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samuel-bay&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-bay&layout=compact&langs_count=16&theme=dracula"/>
 
 <h2><strong>Connect with me:</strong></h2>
 <div>
